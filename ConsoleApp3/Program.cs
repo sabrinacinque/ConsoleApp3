@@ -71,12 +71,7 @@
 
             Console.WriteLine("La somma dei numeri nell'array è " + somma);
             Console.WriteLine("La media aritmetica dei numeri nell'array è " + mediaAritmetica);
-
-
-
-
-
-
+            //prova aggiornamento
 
         }
 
